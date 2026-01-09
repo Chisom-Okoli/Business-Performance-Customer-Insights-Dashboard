@@ -73,5 +73,5 @@ Businesses often struggle to monitor and evaluate their sales performance, custo
 ## Dashboard Preview
 
 Here is a snapshot of the **Business Performance & Customer Insights Dashboard** created in Excel:
+![Dashboard Screenshot](https://raw.githubusercontent.com/Chisom-Okoli/Business-Performance-Customer-Insights-Dashboard/main/images/business-performance-dashboard.png)
 
-(images/dashboard.png)
