@@ -67,4 +67,11 @@ Businesses often struggle to monitor and evaluate their sales performance, custo
 - Microsoft Excel  
 - Pivot Tables and Charts  
 - Excel formulas and calculations  
-- Dashboard layout and design techniques  
+- Dashboard layout and design techniques
+
+  
+## Dashboard Preview
+
+Here is a snapshot of the **Business Performance & Customer Insights Dashboard** created in Excel:
+
+(images/dashboard.png)
